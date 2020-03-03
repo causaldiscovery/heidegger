@@ -1,0 +1,17 @@
+heacta: vigorous physical activity
+heactb: moderate physical activity
+heactc: mild physical activity
+scorg03: is member of church
+scorg06: is member of a social club
+scorg05: is a member of education, art, or music class
+scorg07: is a member of gym or sport club
+hegenh: self reported general health
+scfrda: friendship quality(how much friends understand his feelings)
+scfrdg: frequency contact
+scako: alcohol consumption frequency
+indager: age
+dhsex: gender
+scfrdm: # close friends
+memtotb: memory index
+totwq10_bu_s: socioeconimic status
+
